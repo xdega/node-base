@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node Application Starting Point
 
 A basic node application base, originally designed for kongregate and self hosted authentication.
@@ -28,3 +29,6 @@ Build, Run Webpack, Migrate Database, and Start Server:
 Dispose Enviroment:
 - docker-compose down
 
+=======
+# node-base
+>>>>>>> 037640d48fe5bd59d0f2120c71f4608800f4dc7a
